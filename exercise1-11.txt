@@ -1,0 +1,6 @@
+/* How would you test the word count program?
+I would feed the program some inputs and compare the actual output to my expected outputs.
+What kinds of input are most likely to uncover bugs if there are any?
+1) A sequence of numbers would be mistaken as words
+2) individual letters would also be counted as words
+** The program has no sense of grammar rules
